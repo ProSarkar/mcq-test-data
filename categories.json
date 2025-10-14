@@ -9,10 +9,42 @@
   },
   {
     "id": "science",
-    "name": "Science",
-    "description": "General science questions for testing", 
+    "name": "Science", 
+    "description": "General science questions for testing",
     "questionUrl": "https://raw.githubusercontent.com/ProSarkar/mcq-test-data/main/science-questions.json",
     "icon": "🔬",
     "totalQuestions": 2
+  },
+  {
+    "id": "history",
+    "name": "History",
+    "description": "World history and historical events",
+    "questionUrl": "https://raw.githubusercontent.com/ProSarkar/mcq-test-data/main/history-questions.json",
+    "icon": "📜",
+    "totalQuestions": 4
+  },
+  {
+    "id": "geography",
+    "name": "Geography",
+    "description": "Countries, capitals, and physical geography",
+    "questionUrl": "https://raw.githubusercontent.com/ProSarkar/mcq-test-data/main/geography-questions.json",
+    "icon": "🌍",
+    "totalQuestions": 3
+  },
+  {
+    "id": "english",
+    "name": "English Grammar",
+    "description": "English language and grammar questions",
+    "questionUrl": "https://raw.githubusercontent.com/ProSarkar/mcq-test-data/main/english-questions.json",
+    "icon": "📚",
+    "totalQuestions": 5
+  },
+  {
+    "id": "programming",
+    "name": "Programming",
+    "description": "Basic programming concepts and logic",
+    "questionUrl": "https://raw.githubusercontent.com/ProSarkar/mcq-test-data/main/programming-questions.json",
+    "icon": "💻",
+    "totalQuestions": 6
   }
 ]

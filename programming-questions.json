@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Tech Modern Language", 
+      "Hyper Transfer Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HTML stands for Hyper Text Markup Language"
+  },
+  {
+    "id": 2,
+    "question": "Which programming language is used for Android development?",
+    "options": ["Swift", "Kotlin", "C#", "PHP"],
+    "correctAnswer": 1,
+    "explanation": "Kotlin is the preferred language for Android development"
+  },
+  {
+    "id": 3,
+    "question": "What is the output of: print(2 + 3 * 4)",
+    "options": ["20", "14", "24", "Error"],
+    "correctAnswer": 1,
+    "explanation": "Multiplication has higher precedence: 3 * 4 = 12, then 2 + 12 = 14"
+  },
+  {
+    "id": 4,
+    "question": "Which data structure uses LIFO (Last In First Out) principle?",
+    "options": ["Queue", "Stack", "Array", "Linked List"],
+    "correctAnswer": 1,
+    "explanation": "Stack uses LIFO - the last element added is the first one removed"
+  },
+  {
+    "id": 5,
+    "question": "What does API stand for?",
+    "options": [
+      "Application Programming Interface",
+      "Advanced Programming Instruction",
+      "Automated Program Interaction",
+      "Application Process Integration"
+    ],
+    "correctAnswer": 0,
+    "explanation": "API stands for Application Programming Interface"
+  },
+  {
+    "id": 6,
+    "question": "Which keyword is used to define a constant in JavaScript?",
+    "options": ["var", "let", "const", "constant"],
+    "correctAnswer": 2,
+    "explanation": "The 'const' keyword is used to define constants in JavaScript"
+  }
+]

@@ -3,7 +3,7 @@
     "id": "math",
     "name": "Mathematics",
     "description": "Basic math questions for testing",
-    "questionUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/mcq-test-data/main/math-questions.json",
+    "questionUrl": "https://raw.githubusercontent.com/ProSarkar/mcq-test-data/main/math-questions.json",
     "icon": "📊",
     "totalQuestions": 3
   },
@@ -11,7 +11,7 @@
     "id": "science",
     "name": "Science",
     "description": "General science questions for testing", 
-    "questionUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/mcq-test-data/main/science-questions.json",
+    "questionUrl": "https://raw.githubusercontent.com/ProSarkar/mcq-test-data/main/science-questions.json",
     "icon": "🔬",
     "totalQuestions": 2
   }

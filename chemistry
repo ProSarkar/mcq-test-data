@@ -1,0 +1,44 @@
+[
+  {
+    "id": "chemistry_1",
+    "text": "What is the chemical symbol for Gold?",
+    "option1": "Go",
+    "option2": "Gd",
+    "option3": "Au",
+    "option4": "Ag",
+    "correctAnswer": "Au",
+    "category": "Chemistry",
+    "difficulty": "Easy",
+    "explanation": "Au is the chemical symbol for Gold, from Latin 'Aurum'.",
+    "source": "github",
+    "questionType": "MOCK_TEST"
+  },
+  {
+    "id": "chemistry_2",
+    "text": "What is the pH value of pure water?",
+    "option1": "5",
+    "option2": "6",
+    "option3": "7",
+    "option4": "8",
+    "correctAnswer": "7",
+    "category": "Chemistry",
+    "difficulty": "Easy",
+    "explanation": "Pure water has a neutral pH of 7 at 25°C.",
+    "source": "github",
+    "questionType": "MOCK_TEST"
+  },
+  {
+    "id": "chemistry_3",
+    "text": "Which gas is most abundant in Earth's atmosphere?",
+    "option1": "Oxygen",
+    "option2": "Carbon Dioxide",
+    "option3": "Nitrogen",
+    "option4": "Argon",
+    "correctAnswer": "Nitrogen",
+    "category": "Chemistry",
+    "difficulty": "Easy",
+    "explanation": "Nitrogen makes up about 78% of Earth's atmosphere.",
+    "source": "github",
+    "questionType": "MOCK_TEST"
+  }
+]

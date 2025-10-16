@@ -4,34 +4,41 @@
     "name": "Mathematics",
     "description": "Mathematics questions covering various topics",
     "difficulty": "Mixed",
-    "questionCount": 10
+    "questionCount": 5
   },
   {
     "id": "physics",
     "name": "Physics", 
     "description": "Physics questions from basic to advanced",
     "difficulty": "Mixed",
-    "questionCount": 8
+    "questionCount": 4
   },
   {
     "id": "chemistry",
     "name": "Chemistry",
     "description": "Chemistry concepts and reactions",
     "difficulty": "Medium",
-    "questionCount": 6
+    "questionCount": 3
   },
   {
     "id": "biology",
     "name": "Biology",
     "description": "Biological concepts and processes",
     "difficulty": "Medium",
-    "questionCount": 7
+    "questionCount": 3
   },
   {
     "id": "english",
     "name": "English",
     "description": "English grammar and vocabulary",
     "difficulty": "Easy",
-    "questionCount": 5
+    "questionCount": 3
+  },
+  {
+    "id": "computer",
+    "name": "Computer Science",
+    "description": "Programming and computer fundamentals",
+    "difficulty": "Mixed",
+    "questionCount": 4
   }
 ]

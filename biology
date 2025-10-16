@@ -1,0 +1,44 @@
+[
+  {
+    "id": "biology_1",
+    "text": "Which organelle is known as the 'powerhouse of the cell'?",
+    "option1": "Nucleus",
+    "option2": "Mitochondria",
+    "option3": "Ribosome",
+    "option4": "Golgi Apparatus",
+    "correctAnswer": "Mitochondria",
+    "category": "Biology",
+    "difficulty": "Easy",
+    "explanation": "Mitochondria produce energy (ATP) through cellular respiration.",
+    "source": "github",
+    "questionType": "MOCK_TEST"
+  },
+  {
+    "id": "biology_2",
+    "text": "What is the basic unit of life?",
+    "option1": "Atom",
+    "option2": "Molecule",
+    "option3": "Cell",
+    "option4": "Tissue",
+    "correctAnswer": "Cell",
+    "category": "Biology",
+    "difficulty": "Easy",
+    "explanation": "The cell is the smallest structural and functional unit of living organisms.",
+    "source": "github",
+    "questionType": "MOCK_TEST"
+  },
+  {
+    "id": "biology_3",
+    "text": "Which vitamin is produced when human skin is exposed to sunlight?",
+    "option1": "Vitamin A",
+    "option2": "Vitamin B",
+    "option3": "Vitamin C",
+    "option4": "Vitamin D",
+    "correctAnswer": "Vitamin D",
+    "category": "Biology",
+    "difficulty": "Easy",
+    "explanation": "Vitamin D is synthesized when skin is exposed to UVB sunlight.",
+    "source": "github",
+    "questionType": "MOCK_TEST"
+  }
+]

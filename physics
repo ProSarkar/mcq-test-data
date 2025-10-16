@@ -1,0 +1,58 @@
+[
+  {
+    "id": "physics_1",
+    "text": "What is the SI unit of force?",
+    "option1": "Joule",
+    "option2": "Watt",
+    "option3": "Newton", 
+    "option4": "Pascal",
+    "correctAnswer": "Newton",
+    "category": "Physics",
+    "difficulty": "Easy",
+    "explanation": "The SI unit of force is Newton (N), named after Isaac Newton.",
+    "source": "github", 
+    "questionType": "MOCK_TEST"
+  },
+  {
+    "id": "physics_2",
+    "text": "Which law states that every action has an equal and opposite reaction?",
+    "option1": "Newton's First Law",
+    "option2": "Newton's Second Law", 
+    "option3": "Newton's Third Law",
+    "option4": "Law of Gravitation",
+    "correctAnswer": "Newton's Third Law",
+    "category": "Physics",
+    "difficulty": "Easy",
+    "explanation": "Newton's Third Law of Motion states this principle.",
+    "source": "github",
+    "questionType": "MOCK_TEST"
+  },
+  {
+    "id": "physics_3",
+    "text": "What is the speed of light in vacuum?",
+    "option1": "3 × 10⁶ m/s",
+    "option2": "3 × 10⁸ m/s",
+    "option3": "3 × 10¹⁰ m/s",
+    "option4": "3 × 10¹² m/s",
+    "correctAnswer": "3 × 10⁸ m/s",
+    "category": "Physics",
+    "difficulty": "Medium",
+    "explanation": "The speed of light in vacuum is approximately 299,792,458 m/s, often rounded to 3 × 10⁸ m/s.",
+    "source": "github",
+    "questionType": "MOCK_TEST"
+  },
+  {
+    "id": "physics_4",
+    "text": "Which device is used to measure electric current?",
+    "option1": "Voltmeter",
+    "option2": "Ammeter",
+    "option3": "Ohmmeter",
+    "option4": "Galvanometer",
+    "correctAnswer": "Ammeter",
+    "category": "Physics",
+    "difficulty": "Easy",
+    "explanation": "Ammeter is used to measure electric current in amperes.",
+    "source": "github",
+    "questionType": "MOCK_TEST"
+  }
+]

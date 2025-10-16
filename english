@@ -1,0 +1,44 @@
+[
+  {
+    "id": "english_1",
+    "text": "Which word is a verb?",
+    "option1": "Beautiful",
+    "option2": "Happiness",
+    "option3": "Running",
+    "option4": "Quickly",
+    "correctAnswer": "Running",
+    "category": "English",
+    "difficulty": "Easy",
+    "explanation": "'Running' is a verb as it shows action.",
+    "source": "github",
+    "questionType": "MOCK_TEST"
+  },
+  {
+    "id": "english_2",
+    "text": "What is the synonym of 'happy'?",
+    "option1": "Sad",
+    "option2": "Angry",
+    "option3": "Joyful",
+    "option4": "Tired",
+    "correctAnswer": "Joyful",
+    "category": "English",
+    "difficulty": "Easy",
+    "explanation": "Joyful means feeling or expressing great happiness.",
+    "source": "github",
+    "questionType": "MOCK_TEST"
+  },
+  {
+    "id": "english_3",
+    "text": "Identify the correct sentence:",
+    "option1": "She don't like apples.",
+    "option2": "She doesn't likes apples.",
+    "option3": "She doesn't like apples.",
+    "option4": "She don't likes apples.",
+    "correctAnswer": "She doesn't like apples.",
+    "category": "English",
+    "difficulty": "Medium",
+    "explanation": "With third person singular (she), we use 'doesn't' followed by base verb 'like'.",
+    "source": "github",
+    "questionType": "MOCK_TEST"
+  }
+]

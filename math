@@ -1,0 +1,72 @@
+[
+  {
+    "id": "math_1",
+    "text": "What is the value of π (pi) approximately?",
+    "option1": "3.14",
+    "option2": "2.71", 
+    "option3": "1.62",
+    "option4": "4.13",
+    "correctAnswer": "3.14",
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "explanation": "π is approximately 3.14159, commonly rounded to 3.14.",
+    "source": "github",
+    "questionType": "MOCK_TEST"
+  },
+  {
+    "id": "math_2", 
+    "text": "Solve for x: 2x + 5 = 15",
+    "option1": "x = 5",
+    "option2": "x = 10",
+    "option3": "x = 7.5", 
+    "option4": "x = 8",
+    "correctAnswer": "x = 5",
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "explanation": "2x + 5 = 15 → 2x = 10 → x = 5",
+    "source": "github",
+    "questionType": "MOCK_TEST"
+  },
+  {
+    "id": "math_3",
+    "text": "What is the area of a circle with radius 7 cm?",
+    "option1": "44 cm²",
+    "option2": "154 cm²",
+    "option3": "49 cm²",
+    "option4": "22 cm²",
+    "correctAnswer": "154 cm²",
+    "category": "Mathematics", 
+    "difficulty": "Medium",
+    "explanation": "Area = πr² = (22/7) × 7 × 7 = 154 cm²",
+    "source": "github",
+    "questionType": "MOCK_TEST"
+  },
+  {
+    "id": "math_4",
+    "text": "What is 15% of 200?",
+    "option1": "15",
+    "option2": "20",
+    "option3": "30",
+    "option4": "25",
+    "correctAnswer": "30",
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "explanation": "15% of 200 = (15/100) × 200 = 30",
+    "source": "github",
+    "questionType": "MOCK_TEST"
+  },
+  {
+    "id": "math_5",
+    "text": "If a triangle has angles 60° and 80°, what is the third angle?",
+    "option1": "30°",
+    "option2": "40°",
+    "option3": "50°",
+    "option4": "60°",
+    "correctAnswer": "40°",
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "explanation": "Sum of angles in triangle = 180°. Third angle = 180 - (60 + 80) = 40°",
+    "source": "github",
+    "questionType": "MOCK_TEST"
+  }
+]

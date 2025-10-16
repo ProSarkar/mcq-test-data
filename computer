@@ -1,0 +1,58 @@
+[
+  {
+    "id": "computer_1",
+    "text": "What does CPU stand for?",
+    "option1": "Computer Processing Unit",
+    "option2": "Central Processing Unit",
+    "option3": "Central Program Unit",
+    "option4": "Computer Program Unit",
+    "correctAnswer": "Central Processing Unit",
+    "category": "Computer Science",
+    "difficulty": "Easy",
+    "explanation": "CPU stands for Central Processing Unit, the main component that executes instructions.",
+    "source": "github",
+    "questionType": "MOCK_TEST"
+  },
+  {
+    "id": "computer_2",
+    "text": "Which programming language is used for Android development?",
+    "option1": "Swift",
+    "option2": "Python",
+    "option3": "Kotlin",
+    "option4": "C++",
+    "correctAnswer": "Kotlin",
+    "category": "Computer Science",
+    "difficulty": "Medium",
+    "explanation": "Kotlin is the preferred language for Android development, officially supported by Google.",
+    "source": "github",
+    "questionType": "MOCK_TEST"
+  },
+  {
+    "id": "computer_3",
+    "text": "What is the binary equivalent of decimal number 10?",
+    "option1": "1001",
+    "option2": "1010",
+    "option3": "1100",
+    "option4": "1110",
+    "correctAnswer": "1010",
+    "category": "Computer Science",
+    "difficulty": "Medium",
+    "explanation": "10 in decimal is 1010 in binary (8+0+2+0).",
+    "source": "github",
+    "questionType": "MOCK_TEST"
+  },
+  {
+    "id": "computer_4",
+    "text": "Which data structure uses LIFO (Last In First Out) principle?",
+    "option1": "Queue",
+    "option2": "Stack",
+    "option3": "Array",
+    "option4": "Linked List",
+    "correctAnswer": "Stack",
+    "category": "Computer Science",
+    "difficulty": "Medium",
+    "explanation": "Stack follows LIFO principle, while Queue follows FIFO.",
+    "source": "github",
+    "questionType": "MOCK_TEST"
+  }
+]
